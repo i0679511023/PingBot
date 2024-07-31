@@ -1,0 +1,2 @@
+TOKEN=257492167:AAGSdlmf4lVF6IaewsQM_AIrdcKnmtKlJ-M
+chat_id=-4188941247
